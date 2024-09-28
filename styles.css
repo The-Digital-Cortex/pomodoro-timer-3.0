@@ -3,7 +3,11 @@ body {
     background-color: #ffffff; /* Default background color */
     color: black; /* Default font color */
     margin: 0;
-    padding: 20px;
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Make body take full height of viewport */
+    display: flex; /* Use flexbox */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
 }
 
 .container {
