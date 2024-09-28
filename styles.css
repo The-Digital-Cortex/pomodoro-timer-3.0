@@ -16,14 +16,14 @@ body {
 }
 
 .options button {
-    font-size: 24px; /* Increase font size of the buttons */
-    padding: 15px 30px; /* Increase padding for larger buttons */
-    margin: 5px; /* Add margin between buttons */
+    font-size: 36px; /* Increased font size of the buttons */
+    padding: 20px 40px; /* Increased padding for larger buttons */
+    margin: 10px; /* Add margin between buttons */
     cursor: pointer; /* Change cursor to pointer on hover */
 }
 
 .timer {
-    font-size: 96px; /* Increase timer font size */
+    font-size: 128px; /* Increased timer font size */
     margin: 20px 0;
 }
 
@@ -32,9 +32,9 @@ body {
 }
 
 .controls button {
-    font-size: 24px; /* Increase font size of the control buttons */
-    padding: 15px 30px; /* Increase padding for larger control buttons */
-    margin: 5px; /* Add margin between control buttons */
+    font-size: 36px; /* Increased font size of the control buttons */
+    padding: 20px 40px; /* Increased padding for larger control buttons */
+    margin: 10px; /* Add margin between control buttons */
     cursor: pointer; /* Change cursor to pointer on hover */
 }
 
@@ -62,7 +62,7 @@ body {
 .close {
     color: #aaa;
     float: right;
-    font-size: 28px;
+    font-size: 36px; /* Increased close button size */
     font-weight: bold;
 }
 
